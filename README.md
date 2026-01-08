@@ -7,6 +7,8 @@ This project focuses on analyzing Swiggy food delivery data to understand sales 
 ## Dashboard link
 - <ahref="https://github.com/Saloni-Kumari11/Data-Analysis-Dashboard/blob/main/Swiggy%20Dashboard.xlsx">Swiggy Dataset</a>
 
+## Dashboard
+- <a href="https://github.com/Saloni-Kumari11/Data-Analysis-Dashboard/blob/main/Screenshot%20(4).png">View Dashboard</a>
 #  Objective
 To analyze food order data and track key performance indicators (KPIs) such as Total Sales, Average Order Value, Total Orders, and Customer Ratings to support data-driven decision-making.
 

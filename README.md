@@ -1,27 +1,28 @@
-#Swiggy Sales Dashboard
-An interactive Excel dashboard analyzing Swiggy food delivery data to track sales, orders, customer ratings, and regional performance.
-Swiggy Sales Dashboard | Excel Data Analysis Project
+# Swiggy Sales Dashboard
+## An interactive Excel dashboard analyzing Swiggy food delivery data to track sales, orders, customer ratings, and regional performance.
+
+### Swiggy Sales Dashboard | Excel Data Analysis Project
 This project focuses on analyzing Swiggy food delivery data to understand sales performance, customer behavior, and regional trends. An interactive dashboard was built using Microsoft Excel to convert raw data into meaningful business insights.
 
-#🎯 Objective
+#  Objective
 To analyze food order data and track key performance indicators (KPIs) such as Total Sales, Average Order Value, Total Orders, and Customer Ratings to support data-driven decision-making.
 
-#🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 Microsoft Excel
 Pivot Tables & Pivot Charts
 Slicers
 Excel Formulas
 Map Visualization
 
-#PROBLEM STATEMENT
-##BRD: KPI'S
+# PROBLEM STATEMENT
+## BRD: KPI'S
 ➤ Total Sales (*) - Overall revenue generated from food orders.
 Average Rating - Customer satisfaction level across all restaurants.
 Average Order Value (*) - Revenue per order.
 Ratings Count - Total number of customer reviews.
 Total Orders - Number of food orders received.
 
-##BRD: CHART'S
+## BRD: CHART'S
 Monthly Sales Trend - Shows how total sales fluctuate month by month.
 Daily Sales Trend - Highlights order and revenue variations across days of the week.
 Total Sales by Food Type (Veg vs Non-Veg) - Compares revenue contribution by cuisine type.
@@ -50,5 +51,5 @@ Weekend days show peak sales and order volume
 A small number of cities and states generate most of the revenue
 Monthly sales trend shows consistent growth
 
-##Conclusion
+## Conclusion
 This project demonstrates how Excel can be effectively used for data analysis and visualization to derive actionable insights and support business decisions.
